@@ -1,5 +1,6 @@
 # Instructions - QB-Core
 Support Discord: https://discord.gg/PkJGQ6EdZp
+Set `Config.Framework` to `QBCORE`
 ## 1. Items
 Add the items!
 ### 1a. items.lua
