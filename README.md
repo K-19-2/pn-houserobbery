@@ -26,7 +26,7 @@ Loads of more configurable options are arriving in the near future, so prepare y
 # Instructions - ESX
 
 ## 1. Items
-Add items using the SQL file provided.
+Add items using the SQL file provided, removing any lines for items that are already included on your server. Each items weight should also be configured according to your servers standards. 
 ### 1a. pn-houserobbery.sql
 ```sql
 
